@@ -22,6 +22,7 @@ namaKelompokShift2.forEach((nama, index) => {
     console.log(`${index + 1}. ${nama}`);
 });
 
+
 console.log("----------------------------------");
 console.log("Jumlah anggota:", namaKelompokShift2.length);
 console.log("Kelompok: Shift 2");
